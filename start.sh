@@ -1,1 +1,1 @@
-sbcl --load test.lisp --eval '(run-animation "object.obj")'
+sbcl --load lrndr.lisp --eval '(run-animation "object.obj")'
